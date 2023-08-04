@@ -1,0 +1,44 @@
+[
+  {
+    "Produto": "Camiseta",
+    "Categoria": "Vestuário",
+    "Preco": 39.99,
+    "Estoque": 50,
+    "DataChegada": "2023-08-01"
+  },
+  {
+    "Produto": "Calça Jeans",
+    "Categoria": "Vestuário",
+    "Preco": 79.90,
+    "Estoque": 30,
+    "Origem": "Belém",
+    "DataChegada": "2023-07-25"
+  },
+  {
+    "Produto": "Tênis Esportivo",
+    "Categoria": "Calçados",
+    "Preco": 149.99,
+    "Estoque": 20,
+    "Origem": "Belém",
+    "DataChegada": "03 de maio de 2023"
+  },
+  {
+    "Produto": "Celular",
+    "Categoria": "Eletrônicos",
+    "Preco": 999.00,
+    "Estoque": 10,
+    "DataChegada": "2023-07-29"
+  },
+  {
+    "Produto": "Livro",
+    "Categoria": "Livros",
+    "Preco": 29.90,
+    "Estoque": 100,
+    "DataChegada": "2023-07-15"
+  },
+  {
+    "Produto": "Mochila",
+    "Categoria": "Acessórios",
+    "Preco": 69.50
+  }
+]
